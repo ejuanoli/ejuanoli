@@ -1,10 +1,10 @@
-### Oii! Sou o Eduardo Juan
+### Olá! Meu nome é Eduardo Juan
 
-•Programador inciante 💻!
+  •Programador inciante 💻!
 
-•Estudante de ADS 📚!
+  •Estudante de ADS 📚!
 
-•Front-end web development 👩🏻‍💻!
+  •Front-end web development 👩🏻‍💻!
 
 
 ##
