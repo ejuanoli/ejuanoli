@@ -1,11 +1,10 @@
 ## Eduardo Juan 
 
-`Programador Front-end iniciante` | `Estudante de Análise e Desenvolvimento de Sistemas`
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](link-portfolio)
+`Dev iniciante` | `Estudante de Análise e Desenvolvimento de Sistemas`
 
 ## Sobre Mim
-Olá. Me chamo Eduardo e trabalho como Analista Jr de digitalização na DHL, trabalho com ferramentas low code e Power BI. Meu objetivo com o github é hospedar minhas ideias de desenvolvimento.
+Olá. Me chamo Eduardo e trabalho como Analista de Digitalização e Processos Jr na DHL, trabalho com ferramentas low code e Power BI.   
+Meu objetivo com o github é hospedar minhas ideias de desenvolvimento.
 
 ## 📈 Estatísticas do GitHub
 [![Estatísticas](https://github-readme-stats.vercel.app/api?username=ejuanoli&show_icons=true&theme=radical)](https://github.com/ejuanoli)
